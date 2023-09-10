@@ -31,7 +31,7 @@ Feel free to explore my GitHub repositories for more projects and code samples.
 
 <h2>Let's build amazing things together!</h2>
 
-<p>- 🔭 I’m currently working on a responsive recruitment website (personal project for my portfolio).
+- 🔭 I’m currently working on a responsive recruitment website (personal project for my portfolio).
 - 💬 Ask me about football and we be best buddies out of coding.😎
-- ⚡ Fun fact: I love History and Contemporary Philosophy</p>
+- ⚡ Fun fact: I love History and Contemporary Philosophy
 
