@@ -1,5 +1,5 @@
 **Hi there, my name is George Kasiyandima Full Stack Web Developer from Cape Town** 👋🏿
-<!--
+
 # Full Stack Web Developer
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with expertise in building robust and scalable web applications. I have a strong foundation in both front-end and back-end development, allowing me to create end-to-end solutions that deliver exceptional user experiences.
