@@ -22,18 +22,16 @@ Here are a few highlights of my recent projects:
 
 - Project 1: Advanced State Management Using Redux Implementing the logic of this App: ([THIS APP](https://advanced-state-wheel.herokuapp.com/) - A full-stack finite state machine built with React, Node.js, and Redux. Implemented features such as Reducer pattern, Action-creators, Action- types,Async-creators and form management.Postman was used to test the API endpoints used to interact with the server and make different API requests.
 - Project 2: Advanced Web Applications([THIS APP](https://advanced-apps-articles.herokuapp.com/) - A responsive web application developed using React and Node.js, implementing user authenticatication,create quiz, edit and delete on a interactive quiz app.Postman was used in this project to test the API endpoints and interact with the server.
-- Project 3: [Project Name](link) - A RESTful API built with Ruby on Rails and PostgreSQL for managing and tracking inventory in an e-commerce setting.
 
-Feel free to explore my GitHub repositories for more projects and code samples.nd 
+Feel free to explore my GitHub repositories for more projects and code samples.
 
 ## Get in Touch
 
-I'm always open to new opportunities and collaborations. If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email at georgekasiyandima@gmail.com. You can also find me on LinkedIn [insert LinkedIn profile URL] for a more detailed overview of my professional background.
+I'm always open to new opportunities and collaborations. If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email at georgekasiyandima@gmail.com. You can also find me on LinkedIn www.linkedin.com/in/georgekasiyandima for a more detailed overview of my professional background.
 
 Let's build amazing things together!
 
 - 🔭 I’m currently working on a responsive recruitment website (personal project for my portfolio).
-- 🌱 I’m currently learning 
 - 💬 Ask me about football and we be best buddies out of coding.😎
 - ⚡ Fun fact: I love History and Contemporary Philosophy
--->
+
