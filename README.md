@@ -20,8 +20,12 @@
 
 <h3>Here are a few highlights of my recent projects:</h3>
 
-- Project 1: Advanced State Management Using Redux Implementing the logic of this App: ([THIS APP](https://advanced-state-wheel.herokuapp.com/) - Finite state machine built with React, Node.js, and Redux. Implemented features such as Reducer pattern, Action-creators, Action- types,Async-creators and form management.Postman was used to test the API endpoints used to interact with the server and make different API requests.
-- Project 2: Advanced Web Applications([THIS APP](https://advanced-apps-articles.herokuapp.com/) - A responsive web application developed using React and Node.js, implementing user authenticatication,create quiz, edit and delete on a interactive quiz app.Postman was used in this project to test the API endpoints and interact with the server.
+Project 1: Advanced State Management Using Redux Implementing the logic of this App: ([THIS APP](https://advanced-state-wheel.herokuapp.com/) - Finite state 
+           machine built with React, Node.js, and Redux. Implemented features such as Reducer pattern, Action-creators, Action- types,Async-creators and form 
+           management.Postman was used to test the API endpoints used to interact with the server and make different API requests.
+Project 2: Advanced Web Applications([THIS APP](https://advanced-apps-articles.herokuapp.com/) - A responsive web application developed using React and 
+           Node.js, implementing user authenticatication,create quiz, edit and delete on a interactive quiz app.Postman was used in this project to test the 
+           API endpoints and interact with the server.
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
