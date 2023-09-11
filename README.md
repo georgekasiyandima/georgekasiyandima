@@ -1,4 +1,4 @@
-<h1>Hi there, my name is George Kasiyandima Full Stack Web Developer from Cape Town** 👋🏿</h1>
+<h1>Hi there, my name is George Kasiyandima Full Stack Web Developer from Cape Town 👋🏿</h1>
 
 <h2>Full Stack Web Developer</h2>
 
