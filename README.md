@@ -10,9 +10,9 @@
 
 - Front-end technologies: HTML5, CSS3, JavaScript (ES6+), React,
 - Back-end technologies: Node.js, Express.js, Python,
-- Databases: MySQL, MongoDB, PostgreSQL
+- Databases: SQL,MySQL, PostgreSQL
 - Version Control: Git, GitHub,
-- Testing: Jest, React Testing Library</p>
+- Testing: Jest, React Testing Library
 
 <p>I am a continuous learner, always exploring new technologies and keeping up with the latest industry trends. I enjoy collaborating with cross-functional teams, leveraging agile methodologies, and solving complex problems with a focus on efficiency and maintainability.</p>
 
@@ -35,7 +35,7 @@ Feel free to explore my GitHub repositories for more projects and code samples.
 
 <h2>Let's build amazing things together!</h2>
 
-- 🔭 I’m currently working on a responsive recruitment website (personal project for my portfolio).
+- 🔭 I’m currently working on two web apps:i.Careers Solutions (personal website for my wife) and ii. SAZ (Sommelier Association of Zimbabwe).
 - 💬 Ask me about football and we be best buddies out of coding.😎
-- ⚡ Fun fact: I love History and Contemporary Philosophy
+- ⚡ Fun fact: I love History and Contemporary Philosophy.
 
